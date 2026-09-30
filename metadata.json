@@ -1,0 +1,6 @@
+{
+  "name": "FitTrack - Workout & Health Goal Tracker",
+  "description": "A clean, modern, and motivating mobile fitness tracking experience inspired by Nike Training Club, prioritizing today's workout and personal health goal efficiency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
